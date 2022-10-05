@@ -7,6 +7,6 @@ linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 9
 ---
-**MSc@CUCNY, BSc@UMich**
+**MSc@CU, BSc@UMich**
 
 **Research Interests**: Game Theory
