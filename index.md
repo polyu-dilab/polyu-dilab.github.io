@@ -10,7 +10,7 @@ show_call_box: false
 
 # Decisions shaping the future.
 
-Our group are broadly interested in algorithms, AI and computational economics, including problems related to
+Our group is broadly interested in algorithms, AI and computational economics, including problems related to
 <div>
 <li>Algorithmic Game Theory and Mechanism Design</li>
 <li>Computational Social Choice and Fair Division</li>

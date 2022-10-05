@@ -5,7 +5,7 @@ image: "images/team/habib.jpg"
 jobtitle: "Ph.D. Student"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
-weight: 5
+weight: 4
 ---
 **BSc@UIU**
 

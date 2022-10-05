@@ -1,11 +1,11 @@
 ---
-title: "Mr. Mingqi Yuan"
+title: "Mr. YUAN, Mingqi"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/mingqiyuan.jpg"
 jobtitle: "Ph.D. Student"
 homepage: "https://yuanmingqi.github.io/"
 promoted: true
-weight: 7
+weight: 6
 ---
 **MPhil@CUHK, BSc@MUC**
 
