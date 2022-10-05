@@ -2,6 +2,9 @@ main:
 #  - name: "Services"
 #    url: "/services/"
 #    weight: 2
+  - name: "Home"
+    url: "/"
+    weight: 1
   - name: "Publications"
     url: "publications"
     weight: 2
